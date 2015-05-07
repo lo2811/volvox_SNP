@@ -1,9 +1,10 @@
-BC1 CGTGAT
-BC2 ACATCG
-BC3 GCCTAA
-BC4 TGGTCA
-BC5 CACTGT
-BC6 ATTGGC
-BC7 GATCTG
-BC8 TCAAGT
-BC9 CTGATC
+#SampleID	BarcodeSequence	LinkerPrimerSequence	SampleType	Description
+Vc_001	CGTGAT		Volvox	AichiF
+Vc_002	ACATCG		Volvox	AichiM
+Vc_003	GCCTAA		Volvox	PoonaF
+Vc_004	TGGTCA		Volvox	PoonaM
+Vc_005	CACTGT		Volvox	Adam
+Vc_006	ATTGGC		Volvox	Eve
+Vc_007	GATCTG		Volvox	Wangii
+Cr_001	TCAAGT		Chlamy	Wildtype
+Cr_002	CTGATC		Chlamy	itpk
