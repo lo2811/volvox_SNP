@@ -10,7 +10,7 @@ echo "sequence indexing"
 samtools faidx $GENOME
 java -jar $PICARD CreateSequenceDictionary \
       R= $GENOME \
-	  O= $GENOME .dict 
+      O= $GENOME .dict 
 
 echo "Creating a target list of intervals to be realigned...."
 
